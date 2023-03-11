@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 import streamlit as st 
 import matplotlib
+import seaborn
 from src.extraction import load_data
 
 st.set_page_config(layout="wide")
